@@ -29,7 +29,7 @@ Every physical part of the setup is now complete, and a connection can now be ma
 
 This part is fully automated, and assuming that everything in the setup has been completed correctly, all that's left to do is make the connection.
 
-<p align="center"><img width="648" height="244" alt="image" src="https://github.com/user-attachments/assets/90d5c8ff-5853-4eca-a295-699be1d81df9" /></p>
+<p align="center"><img width="645" height="240" alt="image" src="https://github.com/user-attachments/assets/ba8055f3-72b9-46e9-8cb3-c8ef79850e5d" /></p>
 
 As per the pre-defined keyboard HIDs, keyboard shortcuts will be utilised to enter command prompt and enter "some evil stuff" into a text file. This was intended to be a non-malicious method to show how any USB device can be modified to enter more or less whatever you'd like.
 
